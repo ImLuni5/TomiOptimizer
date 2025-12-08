@@ -7,7 +7,7 @@ public class GraalVMGuide extends JFrame {
     File selectedDirectory;
 
     GraalVMGuide() {
-        super("토미의 마인크래프트 최적화 가이드 - Step 3. GraalVM 설치");
+        super("토미의 마인크래프트 최적화 가이드 - Step 2. GraalVM 설치");
         setSize(700, 600);
 
         Dimension frameSize = getSize();

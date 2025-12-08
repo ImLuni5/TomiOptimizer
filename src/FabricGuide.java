@@ -17,7 +17,7 @@ public class FabricGuide extends JFrame {
         lb1.setBounds(50, 20, 600, 50);
         add(lb1);
 
-        JLabel lb2 = new JLabel("Vanilla Packs 들어가서 1.20.1 선택 후 Fabric 선택 후 Create Instance를 누르세요.");
+        JLabel lb2 = new JLabel("PACKS에 들어가서 TomiOptimize를 다운 받아주세요.");
         lb2.setBounds(50, 70, 600, 50);
         add(lb2);
 
@@ -25,7 +25,7 @@ public class FabricGuide extends JFrame {
         next.setBounds(50, 120, 600, 30);
 
         next.addActionListener(e -> {
-            new ModGuide();
+            new GraalVMGuide();
             setVisible(false);
         });
 

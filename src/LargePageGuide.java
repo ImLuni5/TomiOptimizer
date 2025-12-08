@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class LargePageGuide extends JFrame{
     LargePageGuide() {
-        super("토미의 마인크래프트 최적화 가이드 - Step 5. Large Page 설정");
+        super("토미의 마인크래프트 최적화 가이드 - Step 4. Large Page 설정");
         setSize(700, 600);
 
         Dimension frameSize = getSize();
