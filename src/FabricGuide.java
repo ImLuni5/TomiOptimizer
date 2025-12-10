@@ -13,11 +13,11 @@ public class FabricGuide extends JFrame {
                 (windowSize.height - frameSize.height) / 2);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        JLabel lb1 = new JLabel("Accounts로 들어가셔서 계정 로그인 하세요.");
+        JLabel lb1 = new JLabel("마인크래프트 계정을 로그인 하세요.");
         lb1.setBounds(50, 20, 600, 50);
         add(lb1);
 
-        JLabel lb2 = new JLabel("PACKS에 들어가서 TomiOptimize를 다운 받아주세요.");
+        JLabel lb2 = new JLabel("Discover Contents에 들어가서 TomiOptimize를 다운 받아주세요.");
         lb2.setBounds(50, 70, 600, 50);
         add(lb2);
 
@@ -25,7 +25,7 @@ public class FabricGuide extends JFrame {
         next.setBounds(50, 120, 600, 30);
 
         next.addActionListener(e -> {
-            new GraalVMGuide();
+            new AdoptiumGuide();
             setVisible(false);
         });
 

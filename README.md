@@ -3,6 +3,7 @@
 
 # 사용법은?
 간단합니다. 프로그램을 실행 후 안내에 따라 진행해주시면 됩니다. 그래도 어려우시다면 유튜브 영상보고 따라해주세요. (자바 8 이상이 깔려 있어야 합니다. 마크 유저면 다 있죠? :>)
+<br/> 실수로 안 넣었는데 ATLauncher에서 Settings -> Java/Minecraft에서 Use Java Provided by Minecraft? 부분 체크 해제 해주시고 Ignore Java Checks On Launch? 체크 해주세요. 다음 업데이트때 수정하겠습니다.
 <br/> https://youtu.be/N8fabYdDM_Q
 
 # 효과는?
