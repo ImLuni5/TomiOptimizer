@@ -15,5 +15,5 @@
 예, 안전합니다. 프로그램 중 소개되는 Modrinth App은 꽤나 유명한 런처이기 때문에 계정 탈취 혹은 바이러스 걱정은 안하셔도 됩니다.
 
 # 도움이 된 글
-<br/> https://exa.y2k.diy/garden/jvm-args/
+https://exa.y2k.diy/garden/jvm-args/
 <br/> 해당 깃헙에서 JVM Flag 참고했습니다. 자세한 내용은 들어가셔서 확인해 보시길 바랍니다.
